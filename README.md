@@ -1,1 +1,1 @@
-# Custom-url-protocol-for-c-app
+# Custom URL protocol for c# app
